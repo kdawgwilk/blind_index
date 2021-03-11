@@ -1,6 +1,6 @@
 # Blind Index
 
-Securely search encrypted database fields
+Securely search encrypted database fields. Inspired heavily by [ankane/blind_index](https://github.com/ankane/blind_index)
 
 [![Build Status](https://github.com/kdawgwilk/blind_index/workflows/build/badge.svg?branch=master)](https://github.com/kdawgwilk/blind_index/actions)
 
